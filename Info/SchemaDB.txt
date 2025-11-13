@@ -1,0 +1,32 @@
+🧍‍♂️ المستخدم (User)
+
+{
+  name: String,
+  email: String,
+  password: String,
+  role: { type: String, enum: ['student', 'instructor', 'admin'], default: 'student' },
+  createdAt: { type: Date, default: Date.now }
+}
+
+📘 الدورة (Course)
+
+{
+  title: String,
+  description: String,
+  category: String,
+  instructor: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
+  image: String,
+  lessons: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Lesson' }],
+  students: [{ type: mongoose.Schema.Types.ObjectId, ref: 'User' }],
+  createdAt: { type: Date, default: Date.now }
+}
+
+🎥 الدرس (Lesson)
+
+{
+  title: String,
+  content: String,
+  videoUrl: String,
+  course: { type: mongoose.Schema.Types.ObjectId, ref: 'Course' },
+  createdAt: { type: Date, default: Date.now }
+}

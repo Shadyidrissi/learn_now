@@ -1,0 +1,1879 @@
+[00:00:20.978] Server  LOG      ✓ Ready in 15s
+[00:00:25.597] Server  LOG      ○ Compiling / ...
+[00:00:26.410] Server  ERROR    ⨯ ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabr.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabr.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:28.203] Server  ERROR    ⨯ ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabr.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabr.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:34.358] Server  ERROR    ⨯ ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabr.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabr.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:39.549] Browser ERROR   ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabr.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabr.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:39.549] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '../components/navabr.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabr.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:01:29.091] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:29.762] Server  ERROR    ⨯ ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabar.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabar.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:31.344] Browser ERROR   ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabar.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabar.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:31.344] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '../components/navabar.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabar.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:01:32.675] Browser ERROR   uncaughtError: Error: Module not found: Can't resolve '../components/navabar.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabar.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+
+[00:01:32.790] Browser ERROR   ./src/app/layout.js:4:1
+Module not found: Can't resolve '../components/navabar.css'
+  2 | import "./globals.css";
+  3 | import "../components/footer.css";
+> 4 | import "../components/navabar.css";
+    | ^
+  5 | import "../components/error404.css";
+  6 | import NavBar from "@/components/NavBar";
+  7 |
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:41.860] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:44.526] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:26.243] Server  ERROR    ⨯ ./src/components/navbar.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+[00:02:26.283] Browser ERROR   ./src/components/navbar.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+[00:02:26.283] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:02:27.956] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:02:27.956] Browser ERROR   ./src/components/navbar.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+[00:02:27.956] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:02:27.956] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  6 | }
+  7 | #logo-navbar{
+> 8 |     font
+    |     ^
+  9 | }
+
+[00:02:29.275] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:49.174] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:45.789] Server  ERROR    ⨯ ./src/components/navbar.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+[00:03:45.823] Browser ERROR   ./src/components/navbar.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+[00:03:45.823] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:03:48.579] Browser ERROR   ./src/components/navbar.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+[00:03:48.579] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (8:5)
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:03:48.579] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   6 | }
+   7 | #navbar-logo{
+>  8 |     font
+     |     ^
+   9 | }
+  10 | #logo-learn-navbar{
+
+[00:03:49.393] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:50.916] Server  ERROR    ⨯ ./src/components/navbar.css:9:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+[00:03:50.959] Browser ERROR   ./src/components/navbar.css:9:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+[00:03:50.959] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (9:5)
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (9:5)
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:03:52.157] Browser ERROR   ./src/components/navbar.css:9:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+[00:03:52.157] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (9:5)
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (9:5)
+
+   7 | #navbar-logo{
+   8 |     font-size: 22px;
+>  9 |     font
+     |     ^
+  10 | }
+  11 | #logo-learn-navbar{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:03:52.932] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:42.856] Server  ERROR    ⨯ ./src/components/navbar.css:15:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+[00:05:42.897] Browser ERROR   ./src/components/navbar.css:15:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+[00:05:42.897] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (15:1)
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (15:1)
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:05:44.285] Browser ERROR   ./src/components/navbar.css:15:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+[00:05:44.285] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (15:1)
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (15:1)
+
+  13 |     color:#93BFC7 ;
+  14 | }
+> 15 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:05:45.095] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:55.058] Server  ERROR    ⨯ ./src/components/navbar.css:16:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+[00:05:55.094] Browser ERROR   ./src/components/navbar.css:16:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+[00:05:55.094] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (16:5)
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (16:5)
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:05:55.094] Browser ERROR   ./src/components/navbar.css:16:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+[00:05:55.094] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (16:5)
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (16:5)
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:05:57.635] Browser ERROR   ./src/components/navbar.css:16:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+[00:05:57.635] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (16:5)
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (16:5)
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:05:57.635] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  14 | }
+  15 | #navbar-list{
+> 16 |     font
+     |     ^
+  17 | }
+
+[00:05:58.910] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:09.394] Server  ERROR    ⨯ ./src/components/navbar.css:17:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+[00:06:09.436] Browser ERROR   ./src/components/navbar.css:17:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+[00:06:09.436] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (17:5)
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (17:5)
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:06:10.734] Browser ERROR   ./src/components/navbar.css:17:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+[00:06:10.734] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (17:5)
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (17:5)
+
+  15 | #navbar-list{
+  16 |     font-size: 20px;
+> 17 |     font
+     |     ^
+  18 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:06:11.530] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:29.857] Server  ERROR    ⨯ ./src/components/navbar.css:19:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+[00:06:29.896] Browser ERROR   ./src/components/navbar.css:19:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+[00:06:29.896] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (19:5)
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (19:5)
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:06:31.871] Browser ERROR   ./src/components/navbar.css:19:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+[00:06:31.871] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (19:5)
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (19:5)
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:06:31.871] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  17 |     font-weight: 600;
+  18 |     color: black;
+> 19 |     dis
+     |     ^
+  20 | }
+
+[00:06:32.685] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:34.003] Server  ERROR    ⨯ ./src/components/navbar.css:20:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+[00:06:34.042] Browser ERROR   ./src/components/navbar.css:20:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+[00:06:34.042] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (20:5)
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (20:5)
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:06:35.239] Browser ERROR   ./src/components/navbar.css:20:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+[00:06:35.239] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (20:5)
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (20:5)
+
+  18 |     color: black;
+  19 |     display: flex;
+> 20 |     just
+     |     ^
+  21 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:06:36.056] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:42.072] Server  ERROR    ⨯ ./src/components/navbar.css:21:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+[00:06:42.105] Browser ERROR   ./src/components/navbar.css:21:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+[00:06:42.106] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (21:5)
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (21:5)
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:06:43.385] Browser ERROR   ./src/components/navbar.css:21:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+[00:06:43.385] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (21:5)
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (21:5)
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:06:43.385] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  19 |     display: flex;
+  20 |     justify-content: space-evenly;
+> 21 |     ali
+     |     ^
+  22 | }
+
+[00:06:45.008] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:53.850] Server  ERROR    ⨯ ./src/components/navbar.css:24:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+[00:07:53.890] Browser ERROR   ./src/components/navbar.css:24:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+[00:07:53.890] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (24:5)
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (24:5)
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:07:56.628] Server  ERROR    ⨯ ./src/components/navbar.css:24:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     border
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+[00:07:56.634] Browser ERROR   ./src/components/navbar.css:24:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+[00:07:56.634] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (24:5)
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (24:5)
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:07:56.634] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+
+[00:07:58.033] Browser ERROR   ./src/components/navbar.css:24:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     border
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+[00:07:58.033] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (24:5)
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (24:5)
+
+  22 | #navbar-list>a{
+  23 |     margin: 0 10px;
+> 24 |     bu
+     |     ^
+  25 | }
+  26 | #navbar-list>a:hover{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:07:58.793] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:52.665] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:13.741] Server  ERROR    ⨯ ./src/components/navbar.css:6:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+[00:09:13.786] Browser ERROR   ./src/components/navbar.css:6:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+[00:09:13.786] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (6:5)
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (6:5)
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:09:16.542] Browser ERROR   ./src/components/navbar.css:6:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+[00:09:16.542] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (6:5)
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (6:5)
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:09:16.542] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  4 |     align-items: center;
+  5 |     height: 80px;
+> 6 |     back
+    |     ^
+  7 | }
+  8 | #navbar-logo{
+
+[00:09:17.403] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:19.270] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:54.803] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:28.689] Server  ERROR    ⨯ ./src/components/navbar.css:26:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+[00:10:28.724] Browser ERROR   ./src/components/navbar.css:26:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+[00:10:28.724] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (26:5)
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (26:5)
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:10:30.053] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:30.053] Browser ERROR   ./src/components/navbar.css:26:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+[00:10:30.053] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (26:5)
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (26:5)
+
+  24 |     margin: 0 10px;
+  25 |     border-bottom: 0.5px solid transparent;
+> 26 |     font
+     |     ^
+  27 | }
+  28 | #navbar-list>a:hover{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:10:31.296] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:10.613] Server  ERROR    ⨯ ./src/components/navbar.css:32:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+[00:15:10.655] Browser ERROR   ./src/components/navbar.css:32:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+[00:15:10.655] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (32:1)
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (32:1)
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:15:13.580] Browser ERROR   ./src/components/navbar.css:32:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+[00:15:13.580] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (32:1)
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (32:1)
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:15:13.580] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  30 |     color: #0069d3;
+  31 | }
+> 32 | #navbar-list>
+     | ^
+
+[00:15:14.416] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:42.391] Server  ERROR    ⨯ ./src/components/navbar.css:35:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+[00:15:42.427] Browser ERROR   ./src/components/navbar.css:35:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+[00:15:42.427] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:15:43.808] Browser ERROR   ./src/components/navbar.css:35:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+[00:15:43.808] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 |     padding: 5px 10px;
+  34 |     border: 2px solid black;
+> 35 |     font
+     |     ^
+  36 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:15:44.611] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:08.030] Server  ERROR    ⨯ ./src/components/navbar.css:35:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+[00:16:08.068] Browser ERROR   ./src/components/navbar.css:35:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+[00:16:08.068] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:16:09.017] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:09.017] Browser ERROR   ./src/components/navbar.css:35:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+[00:16:09.017] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (35:5)
+
+  33 | #navbar-list>button{
+  34 |     margin
+> 35 |     padding: 5px 10px;
+     |     ^
+  36 |     border: 2px solid black;
+  37 |     font-weight: 800;
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:16:10.269] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:27.809] Server  ERROR    ⨯ ./src/components/navbar.css:39:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+[00:17:27.980] Browser ERROR   ./src/components/navbar.css:39:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+[00:17:27.981] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:17:31.552] Browser ERROR   ./src/components/navbar.css:39:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+[00:17:31.552] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:17:31.552] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     font-weight: 800;
+  38 |     border-radius: 10px;
+> 39 |     dis
+     |     ^
+  40 | }
+
+[00:17:33.575] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:06.233] Server  ERROR    ⨯ ./src/components/navbar.css:39:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+[00:18:06.274] Browser ERROR   ./src/components/navbar.css:39:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+[00:18:06.274] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:18:08.454] Browser ERROR   ./src/components/navbar.css:39:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+[00:18:08.454] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (39:5)
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:18:08.454] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  37 |     border-radius: 10px;
+  38 |     display: flex;
+> 39 |     just
+     |     ^
+  40 | }
+
+[00:18:09.286] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:10.632] Server  ERROR    ⨯ ./src/components/navbar.css:40:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+[00:18:10.682] Browser ERROR   ./src/components/navbar.css:40:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+[00:18:10.682] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (40:5)
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (40:5)
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:18:11.622] Browser ERROR   ./src/components/navbar.css:40:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+[00:18:11.622] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (40:5)
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (40:5)
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:18:11.622] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  38 |     display: flex;
+  39 |     justify-content: center;
+> 40 |     ali
+     |     ^
+  41 | }
+
+[00:18:13.290] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:23.602] Server  ERROR    ⨯ ./src/components/navbar.css:41:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+[00:18:23.645] Browser ERROR   ./src/components/navbar.css:41:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+[00:18:23.645] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (41:5)
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (41:5)
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:18:24.828] Browser ERROR   ./src/components/navbar.css:41:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+[00:18:24.828] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (41:5)
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (41:5)
+
+  39 |     justify-content: center;
+  40 |     align-items: center;
+> 41 |     font
+     |     ^
+  42 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:18:25.618] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:51.765] Server  ERROR    ⨯ ./src/components/navbar.css:43:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+[00:18:51.811] Browser ERROR   ./src/components/navbar.css:43:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+[00:18:51.811] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (43:1)
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (43:1)
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+
+Import trace for requested module:
+./src/components/navbar.css
+[00:18:53.097] Browser ERROR   ./src/components/navbar.css:43:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+[00:18:53.097] Browser ERROR   ./src/components/navbar.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (43:1)
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css Unknown word (43:1)
+
+  41 |     font-size: 18px;
+  42 | }
+> 43 | #navbar-list>button
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\navbar.css
+[00:18:53.886] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:33.766] Server  ERROR    ⨯ ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │ 
+ 16 │     </div>
+ 17 │   )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │   )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │                     <ul id='navbar-list'>
+ 15 │     
+ 16 │ ╭─▶     </div>
+ 17 │ │     )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/NavBar.js
+./src/app/layout.js
+[00:23:33.796] Browser ERROR   ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │ 
+ 16 │     </div>
+ 17 │   )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │   )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │                     <ul id='navbar-list'>
+ 15 │     
+ 16 │ ╭─▶     </div>
+ 17 │ │     )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/NavBar.js
+./src/app/layout.js
+[00:23:36.407] Browser ERROR   ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │ 
+ 16 │     </div>
+ 17 │   )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │   )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │                     <ul id='navbar-list'>
+ 15 │     
+ 16 │ ╭─▶     </div>
+ 17 │ │     )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:23:36.407] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │ 
+ 16 │     </div>
+ 17 │   )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │   )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │                     <ul id='navbar-list'>
+ 15 │     
+ 16 │ ╭─▶     </div>
+ 17 │ │     )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:23:38.025] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:38.470] Server  ERROR    ⨯ ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │ 
+ 16 │         </div>
+ 17 │     )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │     )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │                 </ul>
+ 14 │                 <ul id='navbar-list'>
+ 15 │     
+ 16 │ ╭─▶         </div>
+ 17 │ │       )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/NavBar.js
+./src/app/layout.js
+[00:23:39.993] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:39.993] Browser ERROR   ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │ 
+ 16 │         </div>
+ 17 │     )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │     )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │                 </ul>
+ 14 │                 <ul id='navbar-list'>
+ 15 │     
+ 16 │ ╭─▶         </div>
+ 17 │ │       )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:23:40.558] Server  ERROR    ⨯ ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │             
+ 16 │         </div>
+ 17 │     )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │     )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │                 </ul>
+ 14 │                 <ul id='navbar-list'>
+ 15 │                 
+ 16 │ ╭─▶         </div>
+ 17 │ │       )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/NavBar.js
+./src/app/layout.js
+[00:23:41.135] Server  WARN     ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:41.136] Browser ERROR   ./src/components/NavBar.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │             
+ 16 │         </div>
+ 17 │     )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │     )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │                 </ul>
+ 14 │                 <ul id='navbar-list'>
+ 15 │                 
+ 16 │ ╭─▶         </div>
+ 17 │ │       )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:23:41.438] Server  ERROR    ⨯ ./src/components/NavBar.js
+Error:   × Expression expected
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │             <ul id='navbar-list'>
+ 15 │             <
+ 16 │         </div>
+    ·         ─
+ 17 │     )
+ 18 │ }
+ 18 │ 
+    ╰────
+  × Unterminated regexp literal
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │             <ul id='navbar-list'>
+ 15 │             <
+ 16 │         </div>
+    ·          ─────
+ 17 │     )
+ 18 │ }
+ 18 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/NavBar.js
+./src/app/layout.js
+[00:23:44.092] Browser ERROR   ./src/components/NavBar.js
+Error:   × Expression expected
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │             <ul id='navbar-list'>
+ 15 │             <
+ 16 │         </div>
+    ·         ─
+ 17 │     )
+ 18 │ }
+ 18 │ 
+    ╰────
+  × Unterminated regexp literal
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │             </ul>
+ 14 │             <ul id='navbar-list'>
+ 15 │             <
+ 16 │         </div>
+    ·          ─────
+ 17 │     )
+ 18 │ }
+ 18 │ 
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:23:44.092] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:18:1]
+ 15 │             
+ 16 │         </div>
+ 17 │     )
+ 18 │ }
+    · ▲
+ 19 │ 
+ 20 │ export default NavBar
+    ╰────
+  × Expected '</', got 'jsx text (
+  │     )
+  │ }
+  │
+  │ export default NavBar)'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\components\NavBar.js:16:1]
+ 13 │                 </ul>
+ 14 │                 <ul id='navbar-list'>
+ 15 │                 
+ 16 │ ╭─▶         </div>
+ 17 │ │       )
+ 18 │ │   }
+ 19 │ │   
+ 20 │ ╰─▶ export default NavBar
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:23:47.760] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:23:49.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:07.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

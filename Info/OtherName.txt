@@ -1,0 +1,4 @@
+EN :  " EduWave, SmartLearn, MyCourses "
+
+
+AR : " تعلم الآن " 
