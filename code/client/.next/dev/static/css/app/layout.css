@@ -240,23 +240,24 @@
   width: 400px;
 }
 #home-loading-text>h4 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
-  color: black;
+  color: rgba(0, 0, 0, 0.705);
 }
 #home-loading-text>button {
   margin: 20px 0;
   font-size: 26px;
   font-weight: 600;
-  border: 2px solid black;
+  border: 2px solid rgba(0, 0, 0, 0.705);
   padding: 5px 7px;
-  border-radius: 10px;
+  border-radius: 5px;
   cursor: pointer;
+  color: rgba(0, 0, 0, 0.705);
 }
 #home-loading-text>button:hover {
-  background-color: #0069d3;
-  color: white;
-  border: 2px solid #0069d3;
+  background-color: #FEE490;
+  color: black;
+  border: 2px solid #FEE490;
 }
 #home-loading-image {
   width: 700px;
@@ -301,10 +302,37 @@
     font-weight: 700;
 }
 
-#navbar-list>a:hover {
-    border-bottom: 1px solid #0069d3;
+#navbar-list > a {
+    position: relative; /* ضروري */
+    padding-bottom: 5px; /* مساحة صغيرة للنقطة */
+    color: black;
+    text-decoration: none;
+}
+
+/* النقطة تحت الرابط */
+#navbar-list > a::after {
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: #0069d3; /* لون النقطة */
+    border-radius: 50%;
+    position: absolute;
+    bottom: -4px; /* مكان النقطة */
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0; /* مخفية */
+    transition: opacity 0.3s ease;
+}
+
+/* عند الـ hover تظهر النقطة بدل الخط */
+#navbar-list > a:hover {
     color: #0069d3;
 }
+
+#navbar-list > a:hover::after {
+    opacity: 1;
+}
+
 
 #navbar-list>button {
     margin-left: 20px;

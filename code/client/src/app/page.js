@@ -11,7 +11,7 @@ export default function Home() {
         </h4>
         <button>Let's Start</button>
       </div>
-      <img id="home-loading-image" src="https://www.21kschool.com/ua/wp-content/uploads/sites/6/2024/09/Learning-Methods.png" alt="" />
+      <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
     </div>
   );
 }
