@@ -1,5 +1,15 @@
 @import "tailwindcss";
+/* ! Title path */
+.home-title{
+    font-size: 26px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+
+/* ! Loadin path */
 #home-loading{
     height: 800px;
     display: flex;
@@ -16,11 +26,11 @@
 }
 #home-loading-text>button{
     margin: 20px 0;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 600;
     border: 2px solid rgba(0, 0, 0, 0.705);
     padding: 5px 7px;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
     color: rgba(0, 0, 0, 0.705);
 }
@@ -31,4 +41,34 @@
 }
 #home-loading-image{
     width: 700px;
+}
+
+/* ! Subjects path */
+
+#home-subjects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    list-style: none;
+}
+.home-subjects-subject{
+    height: 250px;
+    width: 170px;
+    background-color: #c8c8c86b;
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home-subjects-subject>img , .home-subjects-subject>svg{
+    height: 80px;
+    object-fit:cover;
+}
+.home-subjects-subject>h3{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
 }

@@ -79,3 +79,2951 @@ Import trace for requested module:
 [00:11:31.388] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:18:41.865] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:19:54.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:31.829] Browser ERROR   ./src/app/page.js
+Error:   × Expected ',', got 'id'
+   ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:6:1]
+ 3 │ export default function Home() {
+ 4 │   return (
+ 5 │     <></>
+ 6 │     <div id="home-loading">
+   ·          ──
+ 7 │       <div id="home-loading-text">
+ 8 │         <h4>
+ 9 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+   ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:31.938] Server  ERROR    ⨯ ./src/app/page.js
+Error:   × Expected ',', got 'id'
+   ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:6:1]
+ 3 │ export default function Home() {
+ 4 │   return (
+ 5 │     <></>
+ 6 │     <div id="home-loading">
+   ·          ──
+ 7 │       <div id="home-loading-text">
+ 8 │         <h4>
+ 9 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+   ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:32.551] Server  ERROR    ⨯ ./src/app/page.js
+Error:   × Expected ',', got 'id'
+   ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:6:1]
+ 3 │ export default function Home() {
+ 4 │   return (
+ 5 │     <></>
+ 6 │     <div id="home-loading">
+   ·          ──
+ 7 │       <div id="home-loading-text">
+ 8 │         <h4>
+ 9 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+   ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:32.579] Browser ERROR   ./src/app/page.js
+Error:   × Expected ',', got 'id'
+   ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:6:1]
+ 3 │ export default function Home() {
+ 4 │   return (
+ 5 │     <></>
+ 6 │     <div id="home-loading">
+   ·          ──
+ 7 │       <div id="home-loading-text">
+ 8 │         <h4>
+ 9 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+   ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:33.123] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Expected ',', got 'id'
+   ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:6:1]
+ 3 │ export default function Home() {
+ 4 │   return (
+ 5 │     <></>
+ 6 │     <div id="home-loading">
+   ·          ──
+ 7 │       <div id="home-loading-text">
+ 8 │         <h4>
+ 9 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+   ╰────
+
+
+Caused by:
+    Syntax Error
+[00:22:33.296] Server  ERROR    ⨯ ./src/app/page.js
+Error:   × Expected ',', got 'id'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:7:1]
+  4 │   return (
+  5 │     <>
+  6 │     </>
+  7 │     <div id="home-loading">
+    ·          ──
+  8 │       <div id="home-loading-text">
+  9 │         <h4>
+ 10 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:33.300] Browser ERROR   ./src/app/page.js
+Error:   × Expected ',', got 'id'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:7:1]
+  4 │   return (
+  5 │     <>
+  6 │     </>
+  7 │     <div id="home-loading">
+    ·          ──
+  8 │       <div id="home-loading-text">
+  9 │         <h4>
+ 10 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:33.797] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Expected ',', got 'id'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:7:1]
+  4 │   return (
+  5 │     <>
+  6 │     </>
+  7 │     <div id="home-loading">
+    ·          ──
+  8 │       <div id="home-loading-text">
+  9 │         <h4>
+ 10 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:22:33.908] Browser ERROR   ./src/app/page.js
+Error:   × Expected ',', got 'id'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:7:1]
+  4 │   return (
+  5 │     <>
+  6 │     </>
+  7 │     <div id="home-loading">
+    ·          ──
+  8 │       <div id="home-loading-text">
+  9 │         <h4>
+ 10 │           lore mmcvervieop eoirvn0eirhv eiruhvevb erubnvieu 9ere reru ger egierhgi erge rgervnoer ergeurhbvier ierheiurghiergh
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:22:34.559] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:34.951] Server  LOG      ○ Compiling /_error ...
+[00:22:34.973] Server  ERROR    ⨯ ./src/app/page.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:18:1]
+ 15 │       <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │     </div>
+ 17 │   );
+ 18 │ }
+    · ▲
+    ╰────
+  × Expected '</', got '<eof>'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:18:3]
+ 16 │     </div>
+ 17 │   );
+ 18 │ }
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:22:35.437] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:18:1]
+ 15 │       <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │     </div>
+ 17 │   );
+ 18 │ }
+    · ▲
+    ╰────
+  × Expected '</', got '<eof>'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:18:3]
+ 16 │     </div>
+ 17 │   );
+ 18 │ }
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:22:35.553] Browser ERROR   ./src/app/page.js
+Error:   × Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:18:1]
+ 15 │       <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │     </div>
+ 17 │   );
+ 18 │ }
+    · ▲
+    ╰────
+  × Expected '</', got '<eof>'
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:18:3]
+ 16 │     </div>
+ 17 │   );
+ 18 │ }
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:22:36.571] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:22:38.802] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:55.796] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true ied ied true ied
+[00:23:42.643] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? class className
+[00:24:07.594] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:24:52.355] Server  ERROR    ⨯ ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:52.545] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:52.545] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:24:52.545] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:52.545] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:24:52.776] Server  ERROR    ⨯ ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:52.809] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:52.809] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:24:53.303] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+
+[00:24:53.408] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:53.408] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:24:54.197] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:24:54.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:55.053] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:24:55.232] Server  ERROR    ⨯ ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:55.268] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:55.268] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:24:55.753] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+
+[00:24:55.861] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+[00:24:55.861] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:24:56.591] Server  ERROR    ⨯ ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #home-subjects
+     | ^
+[00:24:57.083] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #home-subjects
+     | ^
+
+[00:24:57.197] Browser ERROR   ./src/app/globals.css:39:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #home-subjects
+     | ^
+[00:24:57.198] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (39:1)
+
+  37 | /* ! Subjects path */
+  38 | 
+> 39 | #
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:24:58.118] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:24:58.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:58.961] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:04.821] Server  ERROR    ⨯ ./src/app/globals.css:40:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+[00:25:04.933] Browser ERROR   ./src/app/globals.css:40:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+[00:25:04.933] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (40:1)
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (40:1)
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:05.430] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+
+[00:25:05.543] Browser ERROR   ./src/app/globals.css:40:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+[00:25:05.543] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (40:1)
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (40:1)
+
+  38 | 
+  39 | #home-subjects{}
+> 40 | .home-subjects-subject
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:06.560] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:07.268] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:07.413] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:15.044] Server  ERROR    ⨯ ./src/app/globals.css:41:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+[00:25:15.086] Browser ERROR   ./src/app/globals.css:41:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+[00:25:15.086] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (41:5)
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (41:5)
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:15.551] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+
+[00:25:15.667] Browser ERROR   ./src/app/globals.css:41:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+[00:25:15.667] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (41:5)
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (41:5)
+
+  39 | #home-subjects{
+  40 |     display: flex;
+> 41 |     just
+     |     ^
+  42 | }
+  43 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:17.015] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:17.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:17.911] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:19.195] Server  ERROR    ⨯ ./src/app/globals.css:42:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+[00:25:19.246] Browser ERROR   ./src/app/globals.css:42:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+[00:25:19.246] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (42:5)
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (42:5)
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:19.743] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+
+[00:25:19.858] Browser ERROR   ./src/app/globals.css:42:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+[00:25:19.859] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (42:5)
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (42:5)
+
+  40 |     display: flex;
+  41 |     justify-content: center;
+> 42 |     ali
+     |     ^
+  43 | }
+  44 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:20.448] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:21.201] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:21.349] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:23.702] Server  ERROR    ⨯ ./src/app/globals.css:43:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+[00:25:23.817] Browser ERROR   ./src/app/globals.css:43:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+[00:25:23.818] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (43:5)
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (43:5)
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:24.398] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+
+[00:25:24.505] Browser ERROR   ./src/app/globals.css:43:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+[00:25:24.505] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (43:5)
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (43:5)
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:25.486] Server  ERROR    ⨯ ./src/app/globals.css:43:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     with
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+[00:25:25.942] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     with
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+
+[00:25:26.056] Browser ERROR   ./src/app/globals.css:43:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     with
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+[00:25:26.056] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (43:5)
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (43:5)
+
+  41 |     justify-content: center;
+  42 |     align-items: center;
+> 43 |     w
+     |     ^
+  44 | }
+  45 | .home-subjects-subject{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:30.151] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:30.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:31.049] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:35.080] Server  ERROR    ⨯ ./src/app/globals.css:45:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+[00:25:35.209] Browser ERROR   ./src/app/globals.css:45:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+[00:25:35.209] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (45:5)
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (45:5)
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:35.704] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+
+[00:25:35.812] Browser ERROR   ./src/app/globals.css:45:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+[00:25:35.813] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (45:5)
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (45:5)
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:37.681] Server  ERROR    ⨯ ./src/app/globals.css:45:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     height
+     |     ^
+  46 | }
+[00:25:38.150] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     height
+     |     ^
+  46 | }
+
+[00:25:38.256] Browser ERROR   ./src/app/globals.css:45:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     height
+     |     ^
+  46 | }
+[00:25:38.256] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (45:5)
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (45:5)
+
+  43 | }
+  44 | .home-subjects-subject{
+> 45 |     heigfht
+     |     ^
+  46 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:39.109] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:39.803] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:39.936] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:46.711] Server  ERROR    ⨯ ./src/app/globals.css:46:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+[00:25:46.749] Browser ERROR   ./src/app/globals.css:46:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+[00:25:46.749] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (46:5)
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (46:5)
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:47.214] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+
+[00:25:47.316] Browser ERROR   ./src/app/globals.css:46:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+[00:25:47.316] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (46:5)
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (46:5)
+
+  44 | .home-subjects-subject{
+  45 |     height: 250px;
+> 46 |     wi
+     |     ^
+  47 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:47.896] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:48.385] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:49.104] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:49.246] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:25:55.421] Server  ERROR    ⨯ ./src/app/globals.css:47:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+[00:25:55.461] Browser ERROR   ./src/app/globals.css:47:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+[00:25:55.461] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (47:5)
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (47:5)
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:25:55.938] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+
+[00:25:56.046] Browser ERROR   ./src/app/globals.css:47:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+[00:25:56.046] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (47:5)
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (47:5)
+
+  45 |     height: 250px;
+  46 |     width: 170px;
+> 47 |     back
+     |     ^
+  48 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:25:56.692] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:25:57.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:57.570] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:26:22.085] Server  ERROR    ⨯ ./src/app/globals.css:44:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+[00:26:22.179] Browser ERROR   ./src/app/globals.css:44:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+[00:26:22.179] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (44:5)
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (44:5)
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:26:22.646] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+
+[00:26:22.755] Browser ERROR   ./src/app/globals.css:44:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+[00:26:22.755] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (44:5)
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (44:5)
+
+  42 |     align-items: center;
+  43 |     height: 300px;
+> 44 |     list
+     |     ^
+  45 | }
+  46 | .home-subjects-subject{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:26:23.530] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:26:24.239] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:24.377] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:26:41.322] Server  ERROR    ⨯ ./src/app/globals.css:50:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+[00:26:41.369] Browser ERROR   ./src/app/globals.css:50:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+[00:26:41.369] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (50:5)
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (50:5)
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:26:41.853] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+
+[00:26:41.964] Browser ERROR   ./src/app/globals.css:50:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+[00:26:41.965] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (50:5)
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (50:5)
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:26:43.299] Server  ERROR    ⨯ ./src/app/globals.css:50:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border-
+     |     ^
+  51 | }
+[00:26:43.826] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border-
+     |     ^
+  51 | }
+
+[00:26:43.938] Browser ERROR   ./src/app/globals.css:50:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border-
+     |     ^
+  51 | }
+[00:26:43.938] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (50:5)
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (50:5)
+
+  48 |     width: 170px;
+  49 |     background-color: black;
+> 50 |     border
+     |     ^
+  51 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:26:44.634] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:26:45.343] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:45.490] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:44.139] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:44.139] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:44.139] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:27:44.139] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:47.982] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:47.982] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:47.982] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:47.982] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:47.982] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:53.598] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:53.598] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:53.598] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:53.598] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:53.598] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:58.162] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:58.162] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:58.162] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:58.162] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:28:58.162] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:05.866] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true clas clas true clas
+[00:29:39.813] Browser ERROR   ./src/app/globals.css:4:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+[00:29:39.813] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (4:5)
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (4:5)
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:29:39.873] Server  ERROR    ⨯ ./src/app/globals.css:4:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+[00:29:39.902] Browser ERROR   ./src/app/globals.css:4:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+[00:29:39.902] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (4:5)
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (4:5)
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:29:40.516] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+
+[00:29:40.623] Browser ERROR   ./src/app/globals.css:4:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+[00:29:40.623] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (4:5)
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (4:5)
+
+  2 | /* ! Title path */
+  3 | .home-title{
+> 4 |     font
+    |     ^
+  5 | }
+  6 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:29:41.409] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:41.410] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:41.411] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:41.412] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:41.412] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:42.163] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:42.333] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:42.333] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:42.333] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:42.333] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:42.333] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:47.591] Browser ERROR   ./src/app/globals.css:5:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+[00:29:47.591] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (5:5)
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (5:5)
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:29:47.666] Server  ERROR    ⨯ ./src/app/globals.css:5:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+[00:29:47.703] Browser ERROR   ./src/app/globals.css:5:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+[00:29:47.703] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (5:5)
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (5:5)
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:29:48.181] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+
+[00:29:48.288] Browser ERROR   ./src/app/globals.css:5:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+[00:29:48.288] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (5:5)
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (5:5)
+
+  3 | .home-title{
+  4 |     font-size: 26px;
+> 5 |     font
+    |     ^
+  6 | }
+  7 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:29:50.652] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:50.653] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:50.654] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:50.654] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:50.655] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:51.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:51.523] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:51.524] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:51.524] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:51.524] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:51.524] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:56.827] Server  ERROR    ⨯ ./src/app/globals.css:6:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+[00:29:56.872] Browser ERROR   ./src/app/globals.css:6:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+[00:29:56.872] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (6:5)
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (6:5)
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:29:57.370] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+
+[00:29:57.482] Browser ERROR   ./src/app/globals.css:6:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+[00:29:57.482] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (6:5)
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (6:5)
+
+  4 |     font-size: 26px;
+  5 |     font-weight: 700;
+> 6 |     dis
+    |     ^
+  7 | }
+  8 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:29:58.258] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:58.259] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:58.260] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:58.260] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:58.261] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:29:58.985] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:59.167] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:59.167] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:59.168] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:59.168] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:29:59.168] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:01.208] Browser ERROR   ./src/app/globals.css:7:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+[00:30:01.208] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (7:5)
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (7:5)
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:30:01.286] Server  ERROR    ⨯ ./src/app/globals.css:7:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+[00:30:01.325] Browser ERROR   ./src/app/globals.css:7:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+[00:30:01.325] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (7:5)
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (7:5)
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:30:01.824] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+
+[00:30:01.932] Browser ERROR   ./src/app/globals.css:7:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+[00:30:01.932] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (7:5)
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (7:5)
+
+  5 |     font-weight: 700;
+  6 |     display: flex;
+> 7 |     just
+    |     ^
+  8 | }
+  9 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:30:03.536] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:03.536] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:03.537] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:03.537] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:03.538] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:04.292] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:04.470] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:04.470] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:04.470] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:04.470] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:04.470] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:05.239] Server  ERROR    ⨯ ./src/app/globals.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+[00:30:05.277] Browser ERROR   ./src/app/globals.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+[00:30:05.277] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (8:5)
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (8:5)
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:30:05.754] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+
+[00:30:05.868] Browser ERROR   ./src/app/globals.css:8:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+[00:30:05.868] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (8:5)
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (8:5)
+
+   6 |     display: flex;
+   7 |     justify-content: center;
+>  8 |     ali
+     |     ^
+   9 | }
+  10 | 
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:30:07.256] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:07.257] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:07.258] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:07.258] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:07.259] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:30:07.958] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:08.250] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:08.250] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:08.250] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:08.250] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:30:08.250] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:31:30.696] Server  ERROR    ⨯ ./src/app/globals.css:62:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+[00:31:30.741] Browser ERROR   ./src/app/globals.css:62:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+[00:31:30.741] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:1)
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:1)
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:31:32.820] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:31:32.820] Browser ERROR   ./src/app/globals.css:62:1
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+[00:31:32.820] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:1)
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:1)
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:31:32.820] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 | }
+> 62 | .home-subjects-subject>
+     | ^
+
+[00:31:33.363] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:31:33.364] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:31:33.364] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:31:33.365] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:31:34.100] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:34.499] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:31:34.499] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:31:34.499] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:31:34.499] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:06.192] Server  ERROR    ⨯ ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:06.298] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:06.298] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:32:08.111] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:08.111] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:32:08.111] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     co
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+
+[00:32:08.244] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:08.244] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:08.245] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:08.245] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:08.942] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:09.344] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:09.344] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:09.344] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:09.344] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:09.430] Server  ERROR    ⨯ ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:09.464] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:09.464] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:32:11.955] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:11.955] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:32:11.955] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+
+[00:32:13.836] Server  ERROR    ⨯ ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     ob
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:16.366] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     ob
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+[00:32:16.366] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     img
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:32:16.366] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 | .home-subjects-subject>img{
+  63 |     height: 100px;
+> 64 |     ob
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>h3{}
+
+[00:32:16.476] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:16.477] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:16.477] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:16.478] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:17.221] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:17.593] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:17.593] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:17.593] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:17.593] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:37.458] Server  ERROR    ⨯ ./src/app/globals.css:67:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+[00:32:37.618] Browser ERROR   ./src/app/globals.css:67:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+[00:32:37.618] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (67:5)
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (67:5)
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:32:40.113] Browser ERROR   ./src/app/globals.css:67:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+[00:32:40.113] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (67:5)
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (67:5)
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:32:40.113] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  65 | }
+  66 | .home-subjects-subject>h3{
+> 67 |     font
+     |     ^
+  68 | }
+
+[00:32:41.272] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:32:41.775] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:41.775] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:41.776] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:41.776] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:42.476] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:42.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:42.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:42.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:42.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:53.615] Browser ERROR   ./src/app/globals.css:61:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+[00:32:53.615] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (61:5)
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (61:5)
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:32:53.726] Server  ERROR    ⨯ ./src/app/globals.css:61:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+[00:32:53.758] Browser ERROR   ./src/app/globals.css:61:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+[00:32:53.758] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (61:5)
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (61:5)
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:32:54.241] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+
+[00:32:54.358] Browser ERROR   ./src/app/globals.css:61:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+[00:32:54.358] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (61:5)
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (61:5)
+
+  59 |     border-radius: 20px;
+  60 |     margin: 10px;
+> 61 |     dis
+     |     ^
+  62 | }
+  63 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:32:55.272] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:55.272] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:55.273] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:55.273] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:32:56.296] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:56.450] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:56.450] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:56.450] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:56.450] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:32:58.118] Server  ERROR    ⨯ ./src/app/globals.css:62:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+[00:32:58.238] Browser ERROR   ./src/app/globals.css:62:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+[00:32:58.238] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:5)
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:5)
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:32:58.720] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+
+[00:32:58.824] Browser ERROR   ./src/app/globals.css:62:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+[00:32:58.824] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:5)
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (62:5)
+
+  60 |     margin: 10px;
+  61 |     display: flex;
+> 62 |     flex
+     |     ^
+  63 | }
+  64 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:33:00.136] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:00.136] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:00.137] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:00.138] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:00.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:01.121] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:01.121] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:01.121] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:01.121] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:01.770] Browser ERROR   ./src/app/globals.css:63:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+[00:33:01.770] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (63:5)
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (63:5)
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:33:01.848] Server  ERROR    ⨯ ./src/app/globals.css:63:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+[00:33:01.877] Browser ERROR   ./src/app/globals.css:63:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+[00:33:01.877] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (63:5)
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (63:5)
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:33:02.384] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+
+[00:33:02.488] Browser ERROR   ./src/app/globals.css:63:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+[00:33:02.488] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (63:5)
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (63:5)
+
+  61 |     display: flex;
+  62 |     flex-direction: column;
+> 63 |     ali
+     |     ^
+  64 | }
+  65 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:33:03.372] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:03.373] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:03.373] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:03.374] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:04.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:04.232] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:04.232] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:04.232] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:04.232] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:07.888] Server  ERROR    ⨯ ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+[00:33:07.925] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+[00:33:07.925] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:33:08.407] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+
+[00:33:08.522] Browser ERROR   ./src/app/globals.css:64:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+[00:33:08.522] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (64:5)
+
+  62 |     flex-direction: column;
+  63 |     align-items: center;
+> 64 |     just
+     |     ^
+  65 | }
+  66 | .home-subjects-subject>img{
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:33:11.321] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:11.322] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:11.323] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:11.323] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:33:12.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:12.145] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:12.145] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:12.145] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:33:12.145] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:35:59.973] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:35:59.973] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:35:59.974] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:36:00.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:00.804] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:36:00.804] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:36:00.804] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:36:05.432] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:36:48.956] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? fill-rule fillRule
+[00:36:48.956] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? shape-rendering shapeRendering
+[00:36:48.956] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? text-rendering textRendering
+[00:36:48.956] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? image-rendering imageRendering
+[00:36:48.956] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? clip-rule clipRule
+[00:36:48.956] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:25.710] Server  ERROR    ⨯ ./src/app/globals.css:71:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+[00:38:25.763] Browser ERROR   ./src/app/globals.css:71:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+[00:38:25.763] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:38:26.383] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+
+[00:38:26.496] Browser ERROR   ./src/app/globals.css:71:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+[00:38:26.496] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:38:28.935] Browser ERROR   ./src/app/globals.css:72:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  70 | .home-subjects-subject>h3{
+  71 |     margin
+> 72 |     font-size: 18px;
+     |     ^
+  73 | }
+[00:38:28.935] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:38:29.013] Server  ERROR    ⨯ ./src/app/globals.css:72:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  70 | .home-subjects-subject>h3{
+  71 |     margin
+> 72 |     font-size: 18px;
+     |     ^
+  73 | }
+[00:38:29.511] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  70 | .home-subjects-subject>h3{
+  71 |     margin
+> 72 |     font-size: 18px;
+     |     ^
+  73 | }
+
+[00:38:29.625] Browser ERROR   ./src/app/globals.css:72:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  70 | .home-subjects-subject>h3{
+  71 |     margin
+> 72 |     font-size: 18px;
+     |     ^
+  73 | }
+[00:38:29.625] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (71:5)
+
+  69 | }
+  70 | .home-subjects-subject>h3{\
+> 71 |     font-size: 18px;
+     |     ^
+  72 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:38:30.679] Server  ERROR   Invalid DOM property `shape-rendering`. Did you mean `shapeRendering`?
+[00:38:30.680] Server  ERROR   Invalid DOM property `text-rendering`. Did you mean `textRendering`?
+[00:38:30.680] Server  ERROR   Invalid DOM property `image-rendering`. Did you mean `imageRendering`?
+[00:38:30.681] Server  ERROR   Invalid DOM property `fill-rule`. Did you mean `fillRule`?
+[00:38:30.681] Server  ERROR   Invalid DOM property `clip-rule`. Did you mean `clipRule`?
+[00:38:30.682] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:38:30.682] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:38:30.683] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:38:31.428] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:31.725] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? fill-rule fillRule
+[00:38:31.725] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? shape-rendering shapeRendering
+[00:38:31.725] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? text-rendering textRendering
+[00:38:31.725] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? image-rendering imageRendering
+[00:38:31.725] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? clip-rule clipRule
+[00:38:31.725] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:31.725] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:31.725] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:31.725] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:38.192] Server  ERROR    ⨯ ./src/app/globals.css:73:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+[00:38:38.230] Browser ERROR   ./src/app/globals.css:73:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+[00:38:38.230] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (73:5)
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (73:5)
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+
+Import trace for requested module:
+./src/app/globals.css
+[00:38:38.713] Browser ERROR   uncaughtError: Error: Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+
+[00:38:38.830] Browser ERROR   ./src/app/globals.css:73:5
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+[00:38:38.830] Browser ERROR   ./src/app/globals.css
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (73:5)
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+-- inner error --
+Syntax error: C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css Unknown word (73:5)
+
+  71 |     margin-top: 20px;
+  72 |     font-size: 18px;
+> 73 |     font
+     |     ^
+  74 | }
+Generated code for C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[2]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[15].oneOf[10].use[3]!C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\globals.css
+[00:38:40.672] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:38:40.673] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:38:40.674] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:38:41.407] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:41.638] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? fill-rule fillRule
+[00:38:41.638] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? shape-rendering shapeRendering
+[00:38:41.638] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? text-rendering textRendering
+[00:38:41.638] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? image-rendering imageRendering
+[00:38:41.638] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? clip-rule clipRule
+[00:38:41.638] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:41.638] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:38:41.638] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:39:32.635] Server  ERROR    ⨯ ./src/app/page.js
+Error:   × Expression expected
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                         ─
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+  × Unterminated regexp literal
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                          ────
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:39:32.643] Browser ERROR   ./src/app/page.js
+Error:   × Expression expected
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                         ─
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+  × Unterminated regexp literal
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                          ────
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.js
+[00:39:33.259] Browser ERROR   uncaughtError: ModuleBuildError: Module build failed (from ./node_modules/next/dist/build/webpack/loaders/next-swc-loader.js):
+Error:   × Expression expected
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                         ─
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+  × Unterminated regexp literal
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                          ────
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+
+
+Caused by:
+    Syntax Error
+[00:39:33.368] Browser ERROR   ./src/app/page.js
+Error:   × Expression expected
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                         ─
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+  × Unterminated regexp literal
+    ╭─[C:\Users\idris\OneDrive\Desktop\Projects\WEB SITE\FULL-STACK\LearnNow\code\client\src\app\page.js:17:1]
+ 14 │         </div>
+ 15 │         <img id="home-loading-image" src="https://tgaa.in/wp-content/uploads/2023/05/Learn-new-skill-with-our-school-program.jpg" alt="" />
+ 16 │       </div>
+ 17 │       <h3 className="home-title">.home-subjects-subject{</h3>
+    ·                                                          ────
+ 18 │       <div id="home-subjects">
+ 19 │         <li className="home-subjects-subject">
+ 20 │           <img src="https://cdn-icons-png.freepik.com/512/5968/5968509.png" alt="" />
+    ╰────
+
+Caused by:
+    Syntax Error
+[00:39:33.953] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:39:34.928] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:39:34.929] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:39:34.929] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:39:35.621] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:35.852] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? fill-rule fillRule
+[00:39:35.852] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? shape-rendering shapeRendering
+[00:39:35.852] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? text-rendering textRendering
+[00:39:35.852] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? image-rendering imageRendering
+[00:39:35.852] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? clip-rule clipRule
+[00:39:35.852] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:39:35.852] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:39:35.852] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
